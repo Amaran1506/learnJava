@@ -14,7 +14,7 @@ void deposit(int cash)
 {
 	System.out.println("depo "+cash);
 }
-void deposit()     //method name: deposit
+void deposit()     //method name: deposittttt
 {
 	System.out.println("depo");
 }
